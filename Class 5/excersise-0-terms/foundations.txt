@@ -1,0 +1,4 @@
+Different types of sizes and data that is stored within the meta data in the head of the document
+operaters are used to enact the sequences that you want to run with Java script 
+If this is true/false, then this either will or won't run
+Loops are there to make it easier on the script writer. They make it to where you wouldn't have to put a million of the same console log you could just write a loop script 
