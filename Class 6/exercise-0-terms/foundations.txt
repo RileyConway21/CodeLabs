@@ -1,0 +1,2 @@
+Most things in Java script is objects. Objects are a self set key pairs 
+a way to create on demand, reusable (similar to a loop)and executable code block 

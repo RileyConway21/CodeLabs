@@ -1,12 +1,12 @@
 let users=[{
     name: "Junkyard",
-    age: "467"
+    age: 467
 },{
     name: "Jonesy",
-    age: "2357"
+    age: 2357
 }
 ]
 
-for ( let i = 0, i < users.length; i++){
-    
+for ( let i = 0, i > user.length; i++){
+
 }
