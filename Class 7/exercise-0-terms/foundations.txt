@@ -1,0 +1,2 @@
+DOM is a example of a document object model
+Event listeners are modules you can also use from the DOM
